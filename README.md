@@ -13,7 +13,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="right" height="150alt"="codigo" src="codigo.png">
+    <img align="right" height="100alt"="codigo" src="codigo.png">
    
    
                                        
