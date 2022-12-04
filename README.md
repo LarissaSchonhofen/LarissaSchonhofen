@@ -8,12 +8,12 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250alt"="coding-time" src="code.gif">
+    <img align="left" height="240alt"="coding-time" src="code.gif">
                                                                 
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="right" height="100alt"="codigo" src="codigo.png">
+    <img align="right" height="110alt"="codigo" src="codigo.png">
    
    
   <h1>
