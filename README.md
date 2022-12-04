@@ -9,10 +9,11 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250alt="coding-time" src="code.gif">
-   
+                                                                
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250alt="codigo" src="codigo.png">
+    <img align="right" height="150t="codigo" src="codigo.png">
                                        
 
    <H1>
