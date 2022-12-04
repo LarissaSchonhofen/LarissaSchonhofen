@@ -8,12 +8,12 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250"="coding-time" src="code.gif">
+    <img align="left" height="220alt"="coding-time" src="code.gif">
                                                                 
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="right" height="120"="codigo" src="codigo.png">
+    <img align="right" height="110alt"="codigo" src="codigo.png">
   
   <h1>
    <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
