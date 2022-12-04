@@ -5,22 +5,15 @@
   <img height="220em" width="48%" src="https://github-readme-stats.vercel.app/api?username=LarissaSchonhofen&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="220em" align="right" width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaSchonhofen&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
-<br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250alt="coding-time" src="code.gif">
    
-<div align="left">
-
- ```javascript
- const larissaSchonhofen = {
-        code: [Javascript, HTML, CSS],
-        tools: [Figma, Git, GitHub],
-        skills: ["fast learner", "adaptive", "diligent"]
-}                         
-```
- </div>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250alt="codigo" src="codigo.png">
+                                       
 
    <H1>
    <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
