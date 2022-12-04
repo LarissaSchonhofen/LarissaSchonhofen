@@ -15,7 +15,7 @@
   <div style="display: inline_block"><br>
     <img align="right" height="100alt"="codigo" src="codigo.png">
    
-   
+   <br>
   <h1>
    <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Lari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
