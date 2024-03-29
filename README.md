@@ -1,7 +1,7 @@
 ## Bem vindo ao perfil de Larissa Schonhofen:
  
 <div>
-  <img height="170em" width="48%" src="https://github-readme-stats.vercel.app/api?username=larissaschonhofen&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=larissaschonhofen&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaschonhofen&layout=compact&langs_count=16&theme=nightowl"/>
 </div>
 
