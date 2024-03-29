@@ -7,10 +7,10 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250alt"="coding-time" src="code.gif">
+    <img align="left" height="220alt"="coding-time" src="code.gif">
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="right" height="165alt"="codigo" src="codigo.png"><br>
+    <img align="right" height="180alt"="codigo" src="codigo.png"><br>
 
 <div style="display: inline_block">
      <img align="center" alt="lari-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
