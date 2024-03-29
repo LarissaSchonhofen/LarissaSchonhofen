@@ -5,10 +5,10 @@
   <img height="180em" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaschonhofen&layout=compact&langs_count=16&theme=nightowl"/>
 </div>
 
-<div  align="center"> 
+<div  align="center"> <br>
   <div style="display: inline_block">
     <img align="left "height="250alt"="coding-time" src="code.gif">
-<div  align="center"> 
+<div  align="center"> <br>
   <div style="display: inline_block">
     <img align="right" height="150alt"="codigo" src="codigo.png"><br>
 </div>
