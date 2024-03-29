@@ -6,10 +6,10 @@
 </div>
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img height="250alt"="coding-time" src="code.gif">
+  <div style="display: inline_block">
+    <img align="left "height="250alt"="coding-time" src="code.gif">
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
     <img align="right" height="150alt"="codigo" src="codigo.png"><br>
 </div>
 
