@@ -12,10 +12,7 @@
   <div style="display: inline_block"><br>
     <img align="right" height="100alt"="codigo" src="codigo.png">
 
-<br>
-
-<div style="display: inline_block"><br>
- <br>
+<div style="display: inline_block">
      <img align="center" alt="lari-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
      <img align="center" alt="lari-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
      <img align="center" alt="lari-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
