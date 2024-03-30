@@ -6,9 +6,9 @@
 </div>
 
 <div style="display: inline-block"><br>
-    <img align="left" height="275" alt="coding-time" src="code.gif"><br>
+    <img align="left" height="275" alt="coding-time" src="code.gif">
     <div style="display: inline-block" align="center">
-        <img height="90" alt="codigo" src="cdg.png">
+        <br><img height="90" alt="codigo" src="cdg.png">
     </div><br>
     <div style="display: inline-block" align="center">
         <img align="center" alt="lari-c" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
