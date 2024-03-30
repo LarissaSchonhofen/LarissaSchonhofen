@@ -3,12 +3,11 @@
 <div style="display: inline-block" align="center">
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=larissaschonhofen&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaschonhofen&layout=compact&langs_count=16&theme=nightowl"/>
-</div>
-
-<div style="display: inline-block"><br>
+</div><br>
+<div style="display: inline-block" align="center">
     <img align="left" height="275" alt="coding-time" src="code.gif">
     <div style="display: inline-block" align="center">
-        <br><img height="90" alt="codigo" src="cdg.png">
+        <br><img height="95em" alt="codigo" src="codigo.png">
     </div><br>
     <div style="display: inline-block" align="center">
         <img align="center" alt="lari-c" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
@@ -21,3 +20,4 @@
         <a href="https://www.linkedin.com/in/larissa-schonhofen-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
 </div>
+
