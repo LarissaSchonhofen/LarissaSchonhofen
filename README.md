@@ -6,23 +6,18 @@
 </div>
 
 <div style="display: inline-block"><br>
-    <img align="left" height="275" alt="coding-time" src="code.gif">
- <br>
- <div style="display: inline-block" align="center">
-    <img height="90" alt="codigo" src="cdg.png">
+    <img align="left" height="275" alt="coding-time" src="code.gif"><br>
+    <div style="display: inline-block" align="center">
+        <img height="90" alt="codigo" src="cdg.png">
+    </div><br>
+    <div style="display: inline-block" align="center">
+        <img align="center" alt="lari-c" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+        <img align="center" alt="lari-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+        <img align="center" alt="lari-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+        <img align="center" alt="lari-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    </div><br>
+    <div style="display: inline-block" align="center">
+        <a href= "mailto:lari.schonhofen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/larissa-schonhofen-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    </div>
 </div>
-<br>
-<div style="display: inline-block" align="center">
-      <img align="center" alt="lari-c" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-      <img align="center" alt="lari-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-      <img align="center" alt="lari-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-      <img align="center" alt="lari-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-</div>
-<br>
-<div style="display: inline-block" align="center">
-    <a href= "mailto:lari.schonhofen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/larissa-schonhofen-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-</div>
-
-
