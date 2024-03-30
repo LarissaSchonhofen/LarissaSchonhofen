@@ -7,7 +7,7 @@
 
 <div style="display: inline-block" align="center"><br>
     <img align="left" height="275" alt="coding-time" src="code.gif">
-    <br><img align="right" height="90" alt="codigo" src="cdg.png">
+    <br><img align="right" height="90" alt="codigo" src="cdg.png"><br>
 </div>
 
 <div style="display: inline-block" align="right"><br>
