@@ -7,7 +7,7 @@
 <div style="display: inline-block" align="center">
     <img align="left" height="275" alt="coding-time" src="code.gif">
     <div style="display: inline-block" align="center">
-        <br><img height="120em" alt="codigo" src="codigo.png">
+        <br><img height="110em" alt="codigo" src="codigo.png">
     </div><br>
     <div style="display: inline-block" align="center">
         <img align="center" alt="lari-c" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
